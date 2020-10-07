@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=ArrayCalculator(int[])
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayCalculator\n\ \ \n\ @param\ \ array\ \ \ saved\ as\ an\ instance\ array\ of\ integers\n
+comment1.params=
+comment1.target=double\ meanFinder()
+comment1.text=\n\ Returns\ the\ standard\ deviation\ of\ the\ elements\ in\ the\ instance\ array\n\ \n\ @return\ \ \ \ \ the\ mean\ of\ the\ values\ in\ myArray\ as\ a\ double\ \n
+comment2.params=
+comment2.target=double\ stdDevFinder()
+comment2.text=\n\ Returns\ the\ standard\ deviation\ of\ the\ elements\ in\ the\ instance\ array\n\ \n\ @return\ \ \ \ \ the\ population\ standard\ deviation\ of\ the\ values\ in\ myArray\ as\ a\ double\ \n
+comment3.params=
+comment3.target=int\ highFinder()
+comment3.text=\n\ Returns\ the\ highest\ value\ of\ the\ elements\ in\ the\ instance\ array\n\ \n\ @return\ \ \ \ \ the\ highest\ value\ in\ the\ array\ as\ an\ integer\n
+comment4.params=
+comment4.target=int\ lowFinder()
+comment4.text=\n\ Returns\ the\ lowest\ value\ of\ the\ elements\ in\ the\ instance\ array\n\ \n\ @return\ \ \ \ \ the\ lowest\ value\ in\ the\ array\ as\ an\ integer\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ the\ contents\ of\ the\ instance\ array\ in\ columns\ of\ 5\n\ \n\ @return\ \ \ \ \ the\ instance\ array\ contents\ as\ a\ String\ in\ columns\ of\ 5\n
+numComments=6
